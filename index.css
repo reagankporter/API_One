@@ -1,0 +1,43 @@
+body {
+    background-image: url('http://www.helloasia.com.au/wp-content/uploads/2017/08/GhibliShowcase.png');
+}
+
+#container{
+    background: green;
+    height: 300px;
+    width: 700px;
+    border-radius: 30px;
+    padding: 100px;
+    margin: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+
+#button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+
+.titleBtn{
+    background-color:salmon;
+	border: 2;
+    border-color: lightgoldenrodyellow;
+	border-radius: 4px;
+	color: #fff;
+	font-size: 18px;
+	padding: 10px;
+	margin: 10px;
+	width: 200px;
+    font-family: cursive;
+}
+
+p{
+    font-family: cursive;
+    font-size: larger;
+    color: lightgoldenrodyellow;
+}
+
